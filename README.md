@@ -2,7 +2,7 @@
 
 US keyboard layout with Czech diacritics for macOS.
 
-Use <kbd>⌥0‑9</kbd> or <kbd>⌥A-Z</kbd> to write letters with diacritics.
+Use <kbd>⌥0‑9</kbd> or <kbd>⌥A-Z</kbd> to type letters with diacritics.
 
 - <kbd>⌥S</kbd> → Š
 - <kbd>⌥A</kbd> → Á
