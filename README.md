@@ -1,9 +1,5 @@
-<div align="center">
-
 # Pravdomil Keyboard
 Anglická klávesnice s diakritikou pro macOS.
-
-</div>
 
 Diakritika se píše <kbd>⌥0‑9</kbd> nebo <kbd>⌥ + písmeno bez háčku</kbd>.
 
