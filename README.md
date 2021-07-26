@@ -4,9 +4,9 @@ US keyboard layout with Czech diacritics for macOS.
 
 Diakritika se píše <kbd>⌥0‑9</kbd> nebo <kbd>⌥A-Z</kbd>.
 
-- <kbd>⌥S</kbd> -> Š
-- <kbd>⌥A</kbd> -> Á
-- <kbd>⌥1</kbd> -> Ě
+- <kbd>⌥S</kbd> → Š
+- <kbd>⌥A</kbd> → Á
+- <kbd>⌥1</kbd> → Ě
 
 ## Install
 
