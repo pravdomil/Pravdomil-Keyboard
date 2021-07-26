@@ -6,6 +6,7 @@ Diakritika se píše <kbd>⌥0‑9</kbd> nebo <kbd>⌥ + písmeno bez háčku</k
 Příklad: <kbd>⌥S</kbd>` -> Š` <kbd>⌥A</kbd>` -> Á` <kbd>⌥1</kbd>` -> Ě`.
 
 ## Install
+
 ```sh
 cd "/Library/Keyboard Layouts"
 sudo curl "https://raw.githubusercontent.com/pravdomil/keyboard/master/Pravdomil.keylayout" -O
