@@ -6,7 +6,7 @@ Use <kbd>⌥0‑9</kbd> or <kbd>⌥A-Z</kbd> to type letters with diacritics.
 
 - <kbd>⌥S</kbd> → Š
 - <kbd>⌥A</kbd> → Á
-- <kbd>⌥1</kbd> → Ě
+- <kbd>⌥2</kbd> → Ě
 
 ## Install
 
