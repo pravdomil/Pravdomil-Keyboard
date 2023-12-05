@@ -11,8 +11,8 @@ US keyboard layout with Czech diacritics for macOS.
 `⌥2` → `ě`  
 `⌥[` → `ú`
 
-`⌥p` → `pravdomil`  
-`⌥⇧p` → `Pravdomil`
+`⌥P` → `pravdomil`  
+`⌥⇧P` → `Pravdomil`
 
 ## Install
 
