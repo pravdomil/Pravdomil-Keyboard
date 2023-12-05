@@ -4,8 +4,8 @@ US keyboard layout with Czech diacritics for macOS.
 
 - <kbd>⌥2‑0</kbd> → ěščřžýáíé
 - <kbd>⌥⇧2‑0</kbd> → ĚŠČŘŽÝÁÍÉ
-- <kbd>⌥a-z</kbd> → áčďéíňóřšťůýž
-- <kbd>⌥⇧a-z</kbd> → ÁČĎÉÍŇÓŘŠŤŮÝŽ
+- <kbd>⌥A-Z</kbd> → áčďéíňóřšťůýž
+- <kbd>⌥⇧A-Z</kbd> → ÁČĎÉÍŇÓŘŠŤŮÝŽ
 
 ## Colliding Characters
 - for `ě` use <kbd>⌥2</kbd>
