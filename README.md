@@ -5,11 +5,12 @@ US keyboard layout with Czech diacritics for macOS.
 `⌥2‑0` → ěščřžýáíé  
 `⌥⇧2‑0` → ĚŠČŘŽÝÁÍÉ  
 `⌥A-Z` → áčďéíňóřšťůýž  
-`⌥⇧A-Z` → ÁČĎÉÍŇÓŘŠŤŮÝŽ  
+`⌥⇧A-Z` → ÁČĎÉÍŇÓŘŠŤŮÝŽ
 
 ## Colliding Characters
+
 for `ě` use `⌥2`  
-for `ú` use `⌥[`  
+for `ú` use `⌥[`
 
 ## Install
 
