@@ -7,8 +7,6 @@ US keyboard layout with Czech diacritics for macOS.
 `⌥A-Z` → `áčďéíňóřšťůýž`  
 `⌥⇧A-Z` → `ÁČĎÉÍŇÓŘŠŤŮÝŽ`
 
-## Colliding Characters
-
 `⌥2` → `ě`  
 `⌥[` → `ú`
 
