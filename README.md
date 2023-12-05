@@ -9,8 +9,8 @@ US keyboard layout with Czech diacritics for macOS.
 
 ## Colliding Characters
 
-for `ě` use `⌥2`  
-for `ú` use `⌥[`
+`⌥2` → `ě`  
+`⌥[` → `ú`
 
 ## Install
 
