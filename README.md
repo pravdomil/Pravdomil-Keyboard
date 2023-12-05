@@ -3,16 +3,12 @@
 US keyboard layout with Czech diacritics for macOS.
 
 `⌥2‑0` → `ěščřžýáíé`  
-`⌥⇧2‑0` → `ĚŠČŘŽÝÁÍÉ`
-
 `⌥A-Z` → `áčďéíňóřšťůýž`  
-`⌥⇧A-Z` → `ÁČĎÉÍŇÓŘŠŤŮÝŽ`
-
 `⌥2` → `ě`  
-`⌥[` → `ú`
+`⌥[` → `ú`  
+`⌥P` → `pravdomil`
 
-`⌥P` → `pravdomil`  
-`⌥⇧P` → `Pravdomil`
+Use `⌥⇧` for uppercase.
 
 ## Install
 
