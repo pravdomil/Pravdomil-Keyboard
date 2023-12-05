@@ -7,7 +7,7 @@ US keyboard layout with Czech diacritics for macOS.
 - <kbd>⌥a-z</kbd> → áčďéíňóřšťůýž
 - <kbd>⌥⇧a-z</kbd> → ÁČĎÉÍŇÓŘŠŤŮÝŽ
 
-## Colliding characters
+## Colliding Characters
 - for `ě` use <kbd>⌥2</kbd>
 - for `ú` use <kbd>⌥[</kbd>
 
