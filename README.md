@@ -2,14 +2,14 @@
 
 US keyboard layout with Czech diacritics for macOS.
 
-- <kbd>⌥2‑0</kbd> → ěščřžýáíé
-- <kbd>⌥⇧2‑0</kbd> → ĚŠČŘŽÝÁÍÉ
-- <kbd>⌥A-Z</kbd> → áčďéíňóřšťůýž
-- <kbd>⌥⇧A-Z</kbd> → ÁČĎÉÍŇÓŘŠŤŮÝŽ
+- `⌥2‑0` → ěščřžýáíé
+- `⌥⇧2‑0` → ĚŠČŘŽÝÁÍÉ
+- `⌥A-Z` → áčďéíňóřšťůýž
+- `⌥⇧A-Z` → ÁČĎÉÍŇÓŘŠŤŮÝŽ
 
 ## Colliding Characters
-- for `ě` use <kbd>⌥2</kbd>
-- for `ú` use <kbd>⌥[</kbd>
+- for `ě` use `⌥2`
+- for `ú` use `⌥[`
 
 ## Install
 
