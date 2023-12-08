@@ -2,7 +2,7 @@
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 2.2.8 on 2015-07-02 at 22:04 (CEST)-->
 <!--Last edited by Ukelele version 2.2.8 on 2015-07-07 at 21:10 (CEST)-->
-<keyboard group="29" id="31222" name="Pravdomil" maxout="9">
+<keyboard group="29" id="31223" name="Pravdomil ěščřžýáíé" maxout="9">
     <layouts>
         <layout first="0" last="17" modifiers="f4" mapSet="16c"/>
         <layout first="18" last="18" modifiers="f4" mapSet="984"/>
