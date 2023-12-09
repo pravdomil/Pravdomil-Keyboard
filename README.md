@@ -16,7 +16,7 @@ Use `⌥⇧` for uppercase.
 set -e
 cd "/Library/Keyboard Layouts"
 sudo curl "https://raw.githubusercontent.com/pravdomil/keyboard/master/Pravdomil.keylayout" -O
-sudo curl "https://raw.githubusercontent.com/pravdomil/keyboard/master/Pravdomil ěščřžýáíé.keylayout" -O
+sudo curl "https://raw.githubusercontent.com/pravdomil/keyboard/master/Pravdomil%20ěščřžýáíé.keylayout" -O
 say "Oh yeah."
 say "Restart your computer."
 say "Then add keyboard layout in system preferences."
