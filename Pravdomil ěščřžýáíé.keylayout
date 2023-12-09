@@ -398,18 +398,18 @@
             <key code="15" output="ř"/>
             <key code="16" action="ý"/>
             <key code="17" output="ť"/>
-            <key code="18" output="¡"/>
-            <key code="19" output="ě"/>
+            <key code="18" output="!"/>
+            <key code="19" output="@"/>
             <key code="20" action="š"/>
-            <key code="21" output="č"/>
-            <key code="22" output="ž"/>
-            <key code="23" output="ř"/>
+            <key code="21" output="$"/>
+            <key code="22" output="^"/>
+            <key code="23" output="%"/>
             <key code="24" action="≠"/>
-            <key code="25" output="í"/>
-            <key code="26" output="ý"/>
+            <key code="25" output="("/>
+            <key code="26" output="&#x0026;"/>
             <key code="27" output="–"/>
-            <key code="28" output="á"/>
-            <key code="29" output="é"/>
+            <key code="28" output="*"/>
+            <key code="29" output=")"/>
             <key code="30" output="‘"/>
             <key code="31" action="ó"/>
             <key code="32" output="ů"/>
@@ -1309,7 +1309,7 @@
             <when state="none" output="Ř"/>
         </action>
         <action id="š">
-            <when state="none" output="š"/>
+            <when state="none" output="#"/>
         </action>
         <action id="Ž">
             <when state="none" output="Ž"/>
