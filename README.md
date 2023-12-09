@@ -13,6 +13,7 @@ Use `⌥⇧` for uppercase.
 ## Install
 
 ```sh
+set -e
 cd "/Library/Keyboard Layouts"
 sudo curl "https://raw.githubusercontent.com/pravdomil/keyboard/master/Pravdomil.keylayout" -O
 sudo curl "https://raw.githubusercontent.com/pravdomil/keyboard/master/Pravdomil ěščřžýáíé.keylayout" -O
