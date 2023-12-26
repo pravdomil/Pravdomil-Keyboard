@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
+<?xml version="1.1" encoding="UTF-8"?>
+<!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 2.2.8 on 2015-07-02 at 22:04 (CEST)-->
-<!--Last edited by Ukelele version 2.2.8 on 2015-07-07 at 21:10 (CEST)-->
+<!--Last edited by Ukelele version 359 on 2023-12-26 at 12:27 (CET)-->
 <keyboard group="29" id="31223" name="Pravdomil ěščřžýáíé" maxout="9">
     <layouts>
-        <layout first="0" last="17" modifiers="f4" mapSet="16c"/>
-        <layout first="18" last="18" modifiers="f4" mapSet="984"/>
-        <layout first="21" last="23" modifiers="f4" mapSet="984"/>
-        <layout first="30" last="30" modifiers="f4" mapSet="984"/>
-        <layout first="194" last="194" modifiers="f4" mapSet="984"/>
-        <layout first="197" last="197" modifiers="f4" mapSet="984"/>
-        <layout first="200" last="201" modifiers="f4" mapSet="984"/>
-        <layout first="206" last="207" modifiers="f4" mapSet="984"/>
+        <layout first="0" last="17" mapSet="16c" modifiers="f4"/>
+        <layout first="18" last="18" mapSet="984" modifiers="f4"/>
+        <layout first="21" last="23" mapSet="984" modifiers="f4"/>
+        <layout first="30" last="30" mapSet="984" modifiers="f4"/>
+        <layout first="194" last="194" mapSet="984" modifiers="f4"/>
+        <layout first="197" last="197" mapSet="984" modifiers="f4"/>
+        <layout first="200" last="201" mapSet="984" modifiers="f4"/>
+        <layout first="206" last="207" mapSet="984" modifiers="f4"/>
     </layouts>
     <modifierMap id="f4" defaultIndex="7">
         <keyMapSelect mapIndex="0">
@@ -1028,50 +1028,6 @@
         <action id="1">
             <when state="none" next="State 2"/>
         </action>
-        <action id="4">
-            <when state="none" next="State 5"/>
-        </action>
-        <action id="5">
-            <when state="none" output=" "/>
-            <when state="State 1" output="´"/>
-            <when state="State 2" output="`"/>
-            <when state="State 3" output="ˆ"/>
-            <when state="State 4" output="¨"/>
-            <when state="State 5" output="˜"/>
-            <when state="State 6" output="ˇ"/>
-            <when state="carky" output="&#x0027;"/>
-        </action>
-        <action id="6">
-            <when state="none" output="A"/>
-            <when state="State 1" output="Á"/>
-            <when state="State 2" output="À"/>
-            <when state="State 3" output="Â"/>
-            <when state="State 4" output="Ä"/>
-            <when state="State 5" output="Ã"/>
-            <when state="carky" output="Á"/>
-        </action>
-        <action id="7">
-            <when state="none" output="E"/>
-            <when state="State 1" output="É"/>
-            <when state="State 2" output="È"/>
-            <when state="State 3" output="Ê"/>
-            <when state="State 4" output="Ë"/>
-            <when state="State 6" output="Ě"/>
-            <when state="carky" output="É"/>
-        </action>
-        <action id="8">
-            <when state="none" output="I"/>
-            <when state="State 1" output="Í"/>
-            <when state="State 2" output="Ì"/>
-            <when state="State 3" output="Î"/>
-            <when state="State 4" output="Ï"/>
-            <when state="carky" output="Í"/>
-        </action>
-        <action id="9">
-            <when state="none" output="N"/>
-            <when state="State 5" output="Ñ"/>
-            <when state="State 6" output="Ň"/>
-        </action>
         <action id="10">
             <when state="none" output="O"/>
             <when state="State 1" output="Ó"/>
@@ -1154,6 +1110,50 @@
             <when state="State 5" output="˜"/>
             <when state="State 6" output="ˇ"/>
             <when state="carky" output="&#x0027;"/>
+        </action>
+        <action id="4">
+            <when state="none" next="State 5"/>
+        </action>
+        <action id="5">
+            <when state="none" output=" "/>
+            <when state="State 1" output="´"/>
+            <when state="State 2" output="`"/>
+            <when state="State 3" output="ˆ"/>
+            <when state="State 4" output="¨"/>
+            <when state="State 5" output="˜"/>
+            <when state="State 6" output="ˇ"/>
+            <when state="carky" output="&#x0027;"/>
+        </action>
+        <action id="6">
+            <when state="none" output="A"/>
+            <when state="State 1" output="Á"/>
+            <when state="State 2" output="À"/>
+            <when state="State 3" output="Â"/>
+            <when state="State 4" output="Ä"/>
+            <when state="State 5" output="Ã"/>
+            <when state="carky" output="Á"/>
+        </action>
+        <action id="7">
+            <when state="none" output="E"/>
+            <when state="State 1" output="É"/>
+            <when state="State 2" output="È"/>
+            <when state="State 3" output="Ê"/>
+            <when state="State 4" output="Ë"/>
+            <when state="State 6" output="Ě"/>
+            <when state="carky" output="É"/>
+        </action>
+        <action id="8">
+            <when state="none" output="I"/>
+            <when state="State 1" output="Í"/>
+            <when state="State 2" output="Ì"/>
+            <when state="State 3" output="Î"/>
+            <when state="State 4" output="Ï"/>
+            <when state="carky" output="Í"/>
+        </action>
+        <action id="9">
+            <when state="none" output="N"/>
+            <when state="State 5" output="Ñ"/>
+            <when state="State 6" output="Ň"/>
         </action>
         <action id="C">
             <when state="none" output="C"/>
