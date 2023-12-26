@@ -13,13 +13,20 @@ Use `⌥⇧` for uppercase.
 ## Install
 
 ```sh
+clear
 set -e
 cd "/Library/Keyboard Layouts"
 sudo curl "https://raw.githubusercontent.com/pravdomil/keyboard/master/Pravdomil.keylayout" -O
+echo ""
 sudo curl "https://raw.githubusercontent.com/pravdomil/keyboard/master/Pravdomil%20ěščřžýáíé.keylayout" -O
+echo ""
+echo "Oh yeah."
 say "Oh yeah."
+echo "Restart your computer."
 say "Restart your computer."
+echo "Then add keyboard layout in system preferences."
 say "Then add keyboard layout in system preferences."
+echo "Happy typing."
 say "Happy typing."
 exit
 ```
