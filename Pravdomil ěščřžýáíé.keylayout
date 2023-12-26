@@ -622,18 +622,18 @@
             <key code="15" action="Ř"/>
             <key code="16" action="Ý"/>
             <key code="17" output="Ť"/>
-            <key code="18" output="¡"/>
-            <key code="19" output="Ě"/>
-            <key code="20" output="Š"/>
-            <key code="21" output="Č"/>
-            <key code="22" output="Ž"/>
-            <key code="23" output="Ř"/>
+            <key code="18" output="!"/>
+            <key code="19" output="@"/>
+            <key code="20" output="#"/>
+            <key code="21" output="$"/>
+            <key code="22" output="^"/>
+            <key code="23" output="%"/>
             <key code="24" action="ˇ"/>
-            <key code="25" output="Í"/>
-            <key code="26" output="Ý"/>
+            <key code="25" output="("/>
+            <key code="26" output="&#x0026;"/>
             <key code="27" output="–"/>
-            <key code="28" output="Á"/>
-            <key code="29" output="É"/>
+            <key code="28" output="*"/>
+            <key code="29" output=")"/>
             <key code="30" output="‘"/>
             <key code="31" action="Ó"/>
             <key code="32" output="Ů"/>
